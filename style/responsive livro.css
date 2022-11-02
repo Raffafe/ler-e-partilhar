@@ -16,10 +16,10 @@
 @media screen and (max-width: 400px){
 
     header .logo{
-        margin-right: 200px;
-        margin-top: 10px;
-        font-size: 15px;
-        margin-bottom: 5px;
+        margin-right: 8.125rem;
+        margin-top: 0.625rem;
+        font-size: 1.563rem;
+        margin-bottom: 0.313rem;
     }
 
     .dp-menu ul {
@@ -30,13 +30,14 @@
     }
 
     .dp-menu ul li{
-        font-size: 10px;
+        font-size: 0.938rem;
         margin-bottom: 0;
+        margin-top: 0;
         
    }   
     
     .banner-principal{
-        height:200px;
+        height: 12.5rem;
         margin-left: 0;
         padding-left: 0px;
     }
@@ -44,27 +45,29 @@
     .banner-principal .descricao{
         line-height: 1.5;
         width: 85%;
-        font-size: 10px;
-        margin-bottom: 20px;
+        font-size: 0.625rem;
+        margin-bottom: 1.25rem;
         
        
     }
 
     .banner-principal .titulo{
-        margin-top: 300px;
-        font-size: 15px;
-        margin-right: 40px;
+        margin-top: 28.125rem;
+        font-size: 0.938rem;
         text-align: center;
+        margin-left: auto;    
+        margin-right: auto;
     }   
     
     .banner-principal .autor{
-        font-size: 10px;
-        margin-left: 200px;
+        font-size: 0.625rem;
+        text-align: center;
+        
     }
 
     .botao{           
-        font-size: 10px;
-        width: 180px;
+        font-size: 0.625rem;
+        width: 11.25rem;
         margin-left: 30px;
         margin-top: 5px;
      }
@@ -86,56 +89,21 @@
         font-size: 15px;
     }
     
-    .sub-titulo-1{
-        margin-top: 240px;
-        font-size: 10px;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        
-    }
-    .sub-titulo-1 img{
-        width: 20px;
-              
-    } 
-    
-    .sub-titulo {
-        margin-top: 20px;
-        font-size: 10px;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        
-    }
-    .sub-titulo img{
-        width: 20px;
-            
-    } 
-    
     .container{
         margin-left: 0px;
+        text-align: center;
     }
-    
-    .box-filme{
-        height: 170px;
-        width: 241px;
-     }
-    
-    .carrosel-filmes{
-        margin-top: 0px;
-        
-    }
+  
     
     .final {
-        margin-left: 50px;
-        
+        margin-left: 30px;
         padding-left: 0;
-        margin-top: 5px;
+        margin-top: 500px;
         text-align: center;
         font-size: 10px;
         
     }
-    .final p{
-        margin-bottom: 5px;
-    }
+    
     .text {
         font-size: 10px;
     }
