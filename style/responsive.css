@@ -1,5 +1,5 @@
 
-@media screen and (min-width: 300px){
+@media screen and (max-width: 300px){
 
     header .logo{
         margin-right: 200px;
