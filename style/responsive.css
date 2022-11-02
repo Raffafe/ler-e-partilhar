@@ -154,3 +154,10 @@
     }
 }
 
+@media screen and (min-width: 1400px){
+    .banner-principal{
+        
+    background-size: 100% 100%;
+    }
+}
+
