@@ -1,5 +1,5 @@
 :root{
-    --azul:rgba(17, 17, 123, 0.84);
+    --azul:#1e3c5c;
     --preto: #000208;
 }
 
@@ -95,7 +95,7 @@ header .logo{
     font-size: 16px;
     background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('../img/banner.png');
     
-    height:500px;
+    height:550px;
     background-size:contain;
     background-repeat: no-repeat;
     
