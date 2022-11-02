@@ -1,10 +1,10 @@
 
-@media screen and (max-width: 300px){
+@media screen and (max-width: 500px){
 
     header .logo{
-        margin-right: 200px;
+        margin-right: 180px;
         margin-top: 10px;
-        font-size: 15px;
+        font-size: 25px;
         margin-bottom: 5px;
     }
 
@@ -153,5 +153,4 @@
         width: 50%;
     }
 }
-
 
